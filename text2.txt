@@ -1,0 +1,4 @@
+I am Learning Python. 
+I am very lazy.
+I Love Sleeping.
+I need to Study.
